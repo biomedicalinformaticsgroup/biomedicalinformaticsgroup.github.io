@@ -3,9 +3,7 @@ layout: post
 title:  "Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogenous diseases"
 date:   2023-08-02 09:00:00 +0000
 categories: research
----
 
-# Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogenous diseases
 <img style="margin-left: 2rem" align="right" src="/assets/pipeline.jpg" width = "500px" >
 
 #### *Barry Ryan , Riccardo Marioni and T. Ian Simpson*
