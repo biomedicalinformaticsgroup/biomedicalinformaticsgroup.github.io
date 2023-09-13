@@ -21,8 +21,8 @@
 title: Biomedical Informatics Group
 email: ian.simpson@ed.ac.uk
 description:
-baseurl: "/tsimpson" # the subpath of your site, e.g. /blog
-url: "http://homepages.inf.ed.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://biomedicalinformaticsgroup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tisimpson
 github_username:  biomedicalinformaticsgroup
 
