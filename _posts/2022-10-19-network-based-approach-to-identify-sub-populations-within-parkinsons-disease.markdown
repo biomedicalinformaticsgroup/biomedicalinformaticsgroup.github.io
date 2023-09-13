@@ -7,7 +7,7 @@ categories: research
 
 **Barry Ryan** ([e-mail](barry.ryan@ed.ac.uk)) is a PhD student from the CDT in Biomedical Artificial Intelligence working in the group on network based approaches in biomedicine, specically aiming to integrate multi-modal data to improve our understanding of neurological disease.
 
-[![image](/tsimpson/assets/PosterOct28_IndustryDay_2.png)](/assets/PosterOct28_IndustryDay_2.png)
+[![image](/assets/PosterOct28_IndustryDay_2.png)](/assets/PosterOct28_IndustryDay_2.png)
 
 ## Abstract
 
@@ -33,7 +33,7 @@ categories: research
 
 ## Parkinson's Progressive Marker Inititative (PPMI)
 
-<p style='text-align: justify;'> <img align="left" width="300" src="/tsimpson/assets/PPMI.png"  style="float:left; padding-right:20px" >  PPMI was designed with the intention of identifying PD progression biomarkers and to subset individuals with PD by their clinical, genetic and biomarker signatures. The PPMI dataset is an observational,
+<p style='text-align: justify;'> <img align="left" width="300" src="/assets/PPMI.png"  style="float:left; padding-right:20px" >  PPMI was designed with the intention of identifying PD progression biomarkers and to subset individuals with PD by their clinical, genetic and biomarker signatures. The PPMI dataset is an observational,
 international, multicenter longitudinal study of individuals with PD, individuals at risk
 of PD and healthy volunteers (Craig et al. 2021). Participants with PD in this study had a clinical diagnosis of PD for less than 2 years, were not taking PD medication before enrolment
 and demonstrated a dopaminergic deficit determined by a visual dopamine transporter
