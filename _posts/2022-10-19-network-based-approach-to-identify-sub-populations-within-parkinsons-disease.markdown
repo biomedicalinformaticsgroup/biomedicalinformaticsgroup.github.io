@@ -7,7 +7,7 @@ categories: research
 
 **Barry Ryan** ([e-mail](barry.ryan@ed.ac.uk)) is a PhD student from the CDT in Biomedical Artificial Intelligence working in the group on network based approaches in biomedicine, specically aiming to integrate multi-modal data to improve our understanding of neurological disease.
 
-[![image](/tsimpson/assets/PosterOct28_IndustryDay_2.png)](/tsimpson/assets/PosterOct28_IndustryDay_2.png)
+[![image](/tsimpson/assets/PosterOct28_IndustryDay_2.png)](/assets/PosterOct28_IndustryDay_2.png)
 
 ## Abstract
 
@@ -23,7 +23,7 @@ categories: research
 
 ### First Year
 
-![image](/tsimpson/assets/pipeline2.png)
+![image](/assets/pipeline2.png)
 
 <p style='text-align: justify;'>The first stage of the research plan looks to integrate Electronic Health Records with Gene Expression and DNA Methylation datasets. The data is obtained from the <a href="https://www.ppmi-info.org/about-ppmi">Parkinson's Progressive Marker Initiative (PPMI)</a> study (see below). The goal of this stage is to develop a pipeline for multimodal data integration using patient similarity networks (PSN). From the integrated network a Graph Neural Network (GNN) can be trained. GNN's are a particular type of neural network designed to handle unstructured graph data. Common GNN tasks include edge prediction, node classification, community detection and graph level prediction. Node classification is one of the simpler GNN prediction tasks and corresponds to disease classification, hence this was chosen as the initial research test goal. It is expected that integration of multiple data sources will provide better classification in Parkinson's Disease individuals compared to current state of the art methods. </p>
 
