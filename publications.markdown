@@ -3,34 +3,35 @@ layout: page
 title: publications
 permalink: /publications/
 ---
+McLean C, Sorokin A, Simpson TI, Armstrong JD, Sorokina O. BioNAR: An Integrated Biological Network Analysis Package in Bioconductor. Bioinformatics Advances 2023 (in-press).
 
-Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases medRxiv 2023. [https://10.1101/2023.07.09.23292410](https://10.1101/2023.07.09.23292410) [pre-print]
+Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. medRxiv 2023. [https://10.1101/2023.07.09.23292410](https://10.1101/2023.07.09.23292410) [pre-print]
 
-Wood A, Mackaness W, Simpson TI, Armstrong JD. Improved prediction of hiking speeds using a data driven approach arXiv 2023. [https://10.48550/arXiv.2303.16065](https://10.48550/arXiv.2303.16065) [pre-print]
+Wood A, Mackaness W, Simpson TI, Armstrong JD. Improved prediction of hiking speeds using a data driven approach. arXiv 2023. [https://10.48550/arXiv.2303.16065](https://10.48550/arXiv.2303.16065) [pre-print]
 
-McLean C, Sorokin A, Simpson TI, Armstrong JD, Sorokina O. BioNAR: An Integrated Biological Network Analysis Package in Bioconductor bioRxiv 2023. [https://10.1101/2023.02.08.527636](https://10.1101/2023.02.08.527636) [pre-print]
+McLean C, Sorokin A, Simpson TI, Armstrong JD, Sorokina O. BioNAR: An Integrated Biological Network Analysis Package in Bioconductor. bioRxiv 2023. [https://10.1101/2023.02.08.527636](https://10.1101/2023.02.08.527636) [pre-print]
 
-Noordally ZB, Hindle MM, Martin SF, Seaton DD, Simpson TI, Le Bihan T, Millar AJ. A phospho-dawn of protein modification anticipates light onset in the picoeukaryote O. tauri Journal of Experimental Botany, 2023;, erad290, [https://doi.org/10.1093/jxb/erad290](https://doi.org/10.1093/jxb/erad290)
+Noordally ZB, Hindle MM, Martin SF, Seaton DD, Simpson TI, Le Bihan T, Millar AJ. A phospho-dawn of protein modification anticipates light onset in the picoeukaryote O. tauri. Journal of Experimental Botany, 2023;, erad290, [https://doi.org/10.1093/jxb/erad290](https://doi.org/10.1093/jxb/erad290)
 
-Wysocka EM, Page M, Snowden J, Simpson TI. Comparison of rule- and ordinary differential equation-based dynamic model of DARPP-32 signalling network PeerJ 2022 10:e14516. [https://doi.org/10.7717/peerj.14516](https://doi.org/10.7717/peerj.14516)
+Wysocka EM, Page M, Snowden J, Simpson TI. Comparison of rule- and ordinary differential equation-based dynamic model of DARPP-32 signalling network. PeerJ 2022 10:e14516. [https://doi.org/10.7717/peerj.14516](https://doi.org/10.7717/peerj.14516)
 
 Lain A, Yoon W, Kim H, Kang J, Simpson TI. KU_ED at SocialDisNER: Extracting Disease Mentions in Tweets Written in Spanish Proceedings of the Seventh Social Media Mining for Health Applications (#SMM4H) Workshop & Shared Task 2022. [https://aclanthology.org/2022.smm4h-1.23](https://aclanthology.org/2022.smm4h-1.23)
 
-Navarro Torres-Arpi M, and Simpson TI. SFARI Genes and where to find them; modelling Autism Spectrum Disorder specific gene expression dysregulation with RNA-seq data Scientific Reports 2022 12:10158. [https://doi.org/10.1038/s41598-022-14077-1](https://doi.org/10.1038/s41598-022-14077-1)
+Navarro Torres-Arpi M, and Simpson TI. SFARI Genes and where to find them; modelling Autism Spectrum Disorder specific gene expression dysregulation with RNA-seq data.Scientific Reports 2022 12:10158. [https://doi.org/10.1038/s41598-022-14077-1](https://doi.org/10.1038/s41598-022-14077-1)
 
-Yates TM, Lain A, Campbell J, FitzPatrick DR, Simpson TI. Creation and evaluation of full-text literature-derived, feature- weighted disease models of genetically determined developmental disorders Database 2022 Vol.2022:article ID baac038. [https://doi.org/10.1093/database/baac038](https://doi.org/10.1093/database/baac038)
+Yates TM, Lain A, Campbell J, FitzPatrick DR, Simpson TI. Creation and evaluation of full-text literature-derived, feature- weighted disease models of genetically determined developmental disorders. Database 2022 Vol.2022:article ID baac038. [https://doi.org/10.1093/database/baac038](https://doi.org/10.1093/database/baac038)
 
-Wysocka EM, Page M, Snowden J, Simpson TI. Comparison of rule- and ordinary differential equation-based dynamic model of DARPP-32 signalling network bioRxiv 2022. [https://dx.doi.org//10.1101/2022.03.26.485918](https://dx.doi.org//10.1101/2022.03.26.485918) [pre-print]
+Wysocka EM, Page M, Snowden J, Simpson TI. Comparison of rule- and ordinary differential equation-based dynamic model of DARPP-32 signalling network. bioRxiv 2022. [https://dx.doi.org//10.1101/2022.03.26.485918](https://dx.doi.org//10.1101/2022.03.26.485918) [pre-print]
 
-Yates TM, Lain A, Campbell J, FitzPatrick DR, Simpson TI. Creation and evaluation of full-text literature-derived, feature- weighted disease models of genetically determined developmental disorders medRxiv 2021. [https://dx.doi.org/10.1101/2021.11.04.21265878](https://dx.doi.org/10.1101/2021.11.04.21265878) [pre-print]
+Yates TM, Lain A, Campbell J, FitzPatrick DR, Simpson TI. Creation and evaluation of full-text literature-derived, feature- weighted disease models of genetically determined developmental disorders. medRxiv 2021. [https://dx.doi.org/10.1101/2021.11.04.21265878](https://dx.doi.org/10.1101/2021.11.04.21265878) [pre-print]
 
-Dagleish MP, Flockhart AF, Baily JL, Hall AJ, Simpson TI and Longbottom D. Presence of DNA from Chlamydia-like organisms in the nasal cavities of grey seal pups (Halichoerus grypus) and three different substrates present in a breeding colony BMC Veterinary Research 2021 17,328. [https://dx.doi.org/10.1186/s12917-021-03032-3](https://dx.doi.org/10.1186/s12917-021-03032-3)
+Dagleish MP, Flockhart AF, Baily JL, Hall AJ, Simpson TI and Longbottom D. Presence of DNA from Chlamydia-like organisms in the nasal cavities of grey seal pups (Halichoerus grypus) and three different substrates present in a breeding colony. BMC Veterinary Research 2021 17,328. [https://dx.doi.org/10.1186/s12917-021-03032-3](https://dx.doi.org/10.1186/s12917-021-03032-3)
 
-Sorokina O, McLean C, Croning MDR, Heil KF, Wysocka E, He X, Sterratt DC, Grant S, Simpson TI, Armstrong JD. A unified resource and configurable model of the synapse proteome and its role in disease Scientific Reports 2021. [https://doi.org/10.1038/s41598-021-88945-7](https://doi.org/10.1038/s41598-021-88945-7)
+Sorokina O, McLean C, Croning MDR, Heil KF, Wysocka E, He X, Sterratt DC, Grant S, Simpson TI, Armstrong JD. A unified resource and configurable model of the synapse proteome and its role in disease. Scientific Reports 2021. [https://doi.org/10.1038/s41598-021-88945-7](https://doi.org/10.1038/s41598-021-88945-7)
 
-Navarro M and Simpson TI. SFARI Genes and where to find them; classification modelling to identify genes associated with Autism Spectrum Disorder from RNA-seq data bioRxiv 2021. [https://doi.org/10.1101/2021.01.29.428754](https://doi.org/10.1101/2021.01.29.428754) [pre-print]
+Navarro M and Simpson TI. SFARI Genes and where to find them; classification modelling to identify genes associated with Autism Spectrum Disorder from RNA-seq data. bioRxiv 2021. [https://doi.org/10.1101/2021.01.29.428754](https://doi.org/10.1101/2021.01.29.428754) [pre-print]
 
-Sorokina O, McLean C, Croning MDR, Heil KF, Wysocka E, He X, Sterratt DC, Grant S, Simpson TI, Armstrong JD. A configurable model of the synaptic proteome reveals the molecular mechanisms of disease co-morbidity bioRxiv 2020. [https://doi.org/10.1101/2020.10.27.356899](https://doi.org/10.1101/2020.10.27.356899) [pre-print]
+Sorokina O, McLean C, Croning MDR, Heil KF, Wysocka E, He X, Sterratt DC, Grant S, Simpson TI, Armstrong JD. A configurable model of the synaptic proteome reveals the molecular mechanisms of disease co-morbidity. bioRxiv 2020. [https://doi.org/10.1101/2020.10.27.356899](https://doi.org/10.1101/2020.10.27.356899) [pre-print]
 
 Berentsen B, Patil S, Rønnestad K, Goff KM, Pajak M, Simpson TI, Wibrand K, Bramham CR. MicroRNA-34a Acutely Regulates Synaptic Efficacy in the Adult Dentate Gyrus In Vivo. Molecular Neurobiology 2020 57:1432–1445 [https://doi.org/10.1007/s12035-019-01816-1](https://doi.org/10.1007/s12035-019-01816-1)
 
