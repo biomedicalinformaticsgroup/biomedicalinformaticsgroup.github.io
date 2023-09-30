@@ -3,11 +3,12 @@ layout: page
 title: publications
 permalink: /publications/
 ---
-McLean C, Sorokin A, Simpson TI, Armstrong JD, Sorokina O. BioNAR: An Integrated Biological Network Analysis Package in Bioconductor. Bioinformatics Advances 2023 (in-press).
 
 Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. medRxiv 2023. [https://10.1101/2023.07.09.23292410](https://10.1101/2023.07.09.23292410) [pre-print]
 
 Wood A, Mackaness W, Simpson TI, Armstrong JD. Improved prediction of hiking speeds using a data driven approach. arXiv 2023. [https://10.48550/arXiv.2303.16065](https://10.48550/arXiv.2303.16065) [pre-print]
+
+McLean C, Sorokin A, Simpson TI, Armstrong JD, Sorokina O. BioNAR: An Integrated Biological Network Analysis Package in Bioconductor, Bioinformatics Advances, 2023;, vbad137, [https://doi.org/10.1093/bioadv/vbad137](https://doi.org/10.1093/bioadv/vbad137)
 
 McLean C, Sorokin A, Simpson TI, Armstrong JD, Sorokina O. BioNAR: An Integrated Biological Network Analysis Package in Bioconductor. bioRxiv 2023. [https://10.1101/2023.02.08.527636](https://10.1101/2023.02.08.527636) [pre-print]
 
