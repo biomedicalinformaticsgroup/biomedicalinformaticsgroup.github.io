@@ -20,6 +20,7 @@ permalink: /people/
 - Sebestyén Kamp - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai) - with [Giovanni Stracquadanio](https://www.stracquadaniolab.org/))
 - Maria Dolak - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
 - Hanane Issa - PhD Student ([HDR UK-Turing Wellcome PhD Programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/))
+- Juliana Rodriguez Cubillos - PhD Student ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Andrew Millar](https://www.ed.ac.uk/profile/andrew-millar) and [Jason Swedlow](https://www.dundee.ac.uk/people/jason-swedlow)
 - Jessica Singh - Visiting Research Student ([University of Illinois Urbana-Champaign](https://illinois.edu))
 
 ### Alumni
