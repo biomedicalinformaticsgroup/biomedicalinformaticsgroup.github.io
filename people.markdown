@@ -12,6 +12,7 @@ permalink: /people/
 ### Current Group
 - Ian Simpson - Group Leader, [Professor of Biomedical Informatics](https://www.ed.ac.uk/profile/ian-simpson)
 - Michael Yates - Senior Clinical Research Fellow & Consultant in Clinical Genetics (NHS Greater Glasgow and Clyde)
+- Nicholas Moir - PhD Student ([Institute of Genetics & Cancer](https://www.ed.ac.uk/medicine-vet-medicine/institutes-centres-facilities-networks/institutes-and-centres/genetics-cancer)) with [Andy Sims](https://www.ed.ac.uk/institute-genetics-cancer/news-and-events/news-2021/andy-sims-valued-colleague-and-respected-scientist) and [Simon Langdon](https://www.ed.ac.uk/cancer-centre/research/simon-langdon)
 - Aidan Marnane - PhD Student ([CDT in Data Science](https://web.inf.ed.ac.uk/cdt/epsrc-cdt-in-data-science/))
 - Antoine Lain - PhD Student (School of Informatics)
 - Barry Ryan - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
