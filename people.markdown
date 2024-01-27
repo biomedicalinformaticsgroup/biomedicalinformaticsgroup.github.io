@@ -12,7 +12,6 @@ permalink: /people/
 ### Current Group
 - Ian Simpson - Group Leader, [Professor of Biomedical Informatics](https://www.ed.ac.uk/profile/ian-simpson)
 - Michael Yates - Senior Clinical Research Fellow & Consultant in Clinical Genetics (NHS Greater Glasgow and Clyde)
-- Nicholas Moir - PhD Student ([Institute of Genetics & Cancer](https://www.ed.ac.uk/medicine-vet-medicine/institutes-centres-facilities-networks/institutes-and-centres/genetics-cancer)) with [Andy Sims](https://www.ed.ac.uk/institute-genetics-cancer/news-and-events/news-2021/andy-sims-valued-colleague-and-respected-scientist) and [Simon Langdon](https://www.ed.ac.uk/cancer-centre/research/simon-langdon)
 - Aidan Marnane - PhD Student ([CDT in Data Science](https://web.inf.ed.ac.uk/cdt/epsrc-cdt-in-data-science/))
 - Antoine Lain - PhD Student (School of Informatics)
 - Barry Ryan - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
@@ -21,9 +20,12 @@ permalink: /people/
 - Maria Dolak - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
 - Hanane Issa - PhD Student ([HDR UK-Turing Wellcome PhD Programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/))
 - Juliana Rodriguez Cubillos - PhD Student ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Andrew Millar](https://www.ed.ac.uk/profile/andrew-millar) and [Jason Swedlow](https://www.dundee.ac.uk/people/jason-swedlow)
-- Jessica Singh - Visiting Research Student ([University of Illinois Urbana-Champaign](https://illinois.edu))
+- Stefi Tirkova - Project Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)
+- Chaeeun Lee - Project Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)
 
 ### Alumni
+- Nicholas Moir - Research Services ([University of Edinburgh](https://www.ed.ac.uk/information-services)
+- Jessica Singh - Visiting Research Student ([University of Illinois Urbana-Champaign](https://illinois.edu))
 - Jamie Campbell - Clinical Genetics Trainee & Researcher in Natural Language Processing (NHS Grampian) [LinkedIn](https://www.linkedin.com/in/jamie-campbell-b984601a8/)
 - Magdalena Navarro - [LinkedIn](https://uk.linkedin.com/in/magdalena-navarro-torres-arpi-751b63131).
 - Alba Crespi - Data Scientist - [Health Data Science](https://www.dundee.ac.uk/medicine/research/population-health-genomics/health-data-science), School of Medicine, University of Dundee, Scotland
