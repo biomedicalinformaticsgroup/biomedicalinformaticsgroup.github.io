@@ -4,13 +4,19 @@ title: publications
 permalink: /publications/
 ---
 
-Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. medRxiv 2023. [https://10.1101/2023.07.09.23292410](https://10.1101/2023.07.09.23292410) [pre-print]
+Ryan B, Marioni RE, Simpson TI. An Integrative Network Approach for Longitudinal Stratification in Parkinson's Disease. medRxiv 2024. [https://doi.org/10.1101/2024.01.25.24301595](https://doi.org/10.1101/2024.01.25.24301595) [pre-print]
 
-Wood A, Mackaness W, Simpson TI, Armstrong JD. Improved prediction of hiking speeds using a data driven approach. arXiv 2023. [https://10.48550/arXiv.2303.16065](https://10.48550/arXiv.2303.16065) [pre-print]
+Wood A, Mackaness W, Simpson TI, Armstrong JD. Improved prediction of hiking speeds using a data driven approach. PLoS ONE 2023 18(12): e0295848. [https://doi.org/10.1371/journal.pone.0295848](https://doi.org/10.1371/journal.pone.0295848)
 
-McLean C, Sorokin A, Simpson TI, Armstrong JD, Sorokina O. BioNAR: An Integrated Biological Network Analysis Package in Bioconductor, Bioinformatics Advances, 2023;, vbad137, [https://doi.org/10.1093/bioadv/vbad137](https://doi.org/10.1093/bioadv/vbad137)
+Kim H, Kim C, Sohn J, Beck T, Rei M, Kim S, Simpson, TI, Posma JM, Lain A, Sung M, Kang J. Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports. KU AIGEN ICL EDI@BC8 Track 3: Proceedings of the Biocreative VIII Challenge and Workshop 2023: Curation and Evaluation in the Era of Generative Models. AMIA 2023 Annual Symposium, New Orleans, USA. [https://doi.org/10.5281/zenodo.10104804](https://doi.org/10.5281/zenodo.10104804)
 
-McLean C, Sorokin A, Simpson TI, Armstrong JD, Sorokina O. BioNAR: An Integrated Biological Network Analysis Package in Bioconductor. bioRxiv 2023. [https://10.1101/2023.02.08.527636](https://10.1101/2023.02.08.527636) [pre-print]
+Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. medRxiv 2023. [https://doi.org/10.1101/2023.07.09.23292410v2](https://doi.org/10.1101/2023.07.09.23292410v2) [pre-print]
+
+Wood A, Mackaness W, Simpson TI, Armstrong JD. Improved prediction of hiking speeds using a data driven approach. arXiv 2023. [https://doi.org/10.48550/arXiv.2303.16065](https://doi.org/10.48550/arXiv.2303.16065) [pre-print]
+
+McLean C, Sorokin A, Simpson TI, Armstrong JD, Sorokina O. BioNAR: an integrated biological network analysis package in bioconductor, Bioinformatics Advances, Volume 3, Issue 1, 2023, vbad137, [https://doi.org/10.1093/bioadv/vbad137](https://doi.org/10.1093/bioadv/vbad137)
+
+McLean C, Sorokin A, Simpson TI, Armstrong JD, Sorokina O. BioNAR: An Integrated Biological Network Analysis Package in Bioconductor. bioRxiv 2023. [https://doi.org/10.1101/2023.02.08.527636](https:/doi.org/10.1101/2023.02.08.527636) [pre-print]
 
 Noordally ZB, Hindle MM, Martin SF, Seaton DD, Simpson TI, Le Bihan T, Millar AJ. A phospho-dawn of protein modification anticipates light onset in the picoeukaryote O. tauri. Journal of Experimental Botany, 2023;, erad290, [https://doi.org/10.1093/jxb/erad290](https://doi.org/10.1093/jxb/erad290)
 
