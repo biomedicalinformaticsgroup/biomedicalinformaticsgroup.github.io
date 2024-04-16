@@ -22,6 +22,7 @@ permalink: /people/
 - Juliana Rodriguez Cubillos - PhD Student ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Andrew Millar](https://www.ed.ac.uk/profile/andrew-millar) and [Jason Swedlow](https://www.dundee.ac.uk/people/jason-swedlow)
 - Stefi Tirkova - Project Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
 - Chaeeun Lee - Project Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
+- Monishka Aswani - Project Student ([MSc in Data Science, Informatics](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2024&id=902))
 
 ### Alumni
 - Nicholas Moir - Research Services ([University of Edinburgh](https://www.ed.ac.uk/information-services)
