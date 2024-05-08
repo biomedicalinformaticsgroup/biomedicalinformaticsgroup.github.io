@@ -5,14 +5,14 @@ permalink: /research/
 ---
 
 <figure>
-   <img src='assets/research_themes/genomic_medicine/genomic_medicine.png' style='max-width:750px;' />
+   <img src='/assets/research_themes/genomic_medicine/genomic_medicine.png' style='max-width:750px;' />
 </figure>
 
 ## Network methods for Biomedical Applications
 The generation and analysis of network representations of biomedical data is extremely complex due to several common confounding features; missing data, values of different types (Likert, Ordinal, Ranked, Continuous, Binary, Textual), imbalance, and feature heterogeneity. This research topic has developed systematic ways to work with these data in a generative framework allowing us to measure the relative validity of network models against controls using different construction regimens such as network fusion. The framework includes methods to partition the networks and allows us to perform exhaustive feature importance and partition comparison to gain biological insight. It has been used to investigate theoretically and implement instances of networks describing ASD and PD patients using combinations of their clinical and genetic data. This revealed key diagnostic features for ASD patients and allowed us to explore early biomarkers in PD progression.
 
 <figure>
-   <img src='assets/research_themes/biomedical_informatics.png' style='max-width:750px;' />
+   <img src='/assets/research_themes/biomedical_informatics.png' style='max-width:750px;' />
 </figure>
 
 ## Biomedical Natural Language Processing (bioNLP) for Genetic Disease
