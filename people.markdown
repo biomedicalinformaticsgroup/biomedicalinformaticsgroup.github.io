@@ -10,7 +10,7 @@ permalink: /people/
 <h6><i>Group visit to Dollar Glen May 2022</i></h6>
 
 ### Current Group
-- Ian Simpson - Group Leader, Professor of Biomedical Informatics [bio](https://biomedicalinformaticsgroup.github.io/iansimpson.html)
+- Ian Simpson - Group Leader, Professor of Biomedical Informatics ([bio](https://biomedicalinformaticsgroup.github.io/iansimpson.html))
 - Michael Yates - Senior Clinical Research Fellow & Consultant in Clinical Genetics (NHS Greater Glasgow and Clyde)
 - Aidan Marnane - PhD Student ([CDT in Data Science](https://web.inf.ed.ac.uk/cdt/epsrc-cdt-in-data-science/))
 - Antoine Lain - PhD Student (School of Informatics)
