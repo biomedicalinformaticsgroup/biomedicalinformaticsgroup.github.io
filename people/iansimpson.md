@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ian simpson
+title: Ian Simpson
 permalink: /people/iansimpson
 exclude: true
 ---
