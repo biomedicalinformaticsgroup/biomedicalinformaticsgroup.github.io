@@ -1,5 +1,6 @@
 ---
 layout: page
+title: about
 permalink: /about/
 ---
 
@@ -11,13 +12,11 @@ permalink: /about/
 
 > We are the Biomedical Informatics Group, part of the institute for [Adaptive and Neural Computation](http://web.inf.ed.ac.uk/anc) in the [School of Informatics](http://inf.ed.ac.uk) at the [University of Edinburgh](http://www.ed.ac.uk).
 
-*We develop novel statistical and machine learning approaches to help us better understand human disease.*
+*"We develop novel statistical and machine learning approaches to help us better understand human disease"*
 
-Our work ranges from traditional analysis of high-throughput molecular data such as those assessing gene expression and genetic variation information using sequencing technologies, to highly mixed collections of data.
+Most of our current research work focusses on working with mixed collections of data derived from research studies of human disease. Over the last 5-10 years it has become increasingly common for these data to be comprised of several different data types. In many cases integrated these "multi-modal" data allows us to learn jointly from the data, typically this increases signal, minimises noise, and allows us to effectively use the power of much larger and complex representations of disease.
 
-Most of our ongoing work focusses on working with these mixed data collections. Over the last 5-10 years it has become increasingly common for data derived from biological samples to be comprised of several different data types. In many cases formally integrated these "multi-modal" sets allows us to learn across the data, typically increasing signal, minisiming noise, and allowing us to access more of the information space.
-
-Our focus has moved increasingly into the clinical/biomedical domain and most of our current research work uses data derived directly from groups of patients suffering from specific conditions who have consented to have some of their data shared for research puroposes. These data are made available to researchers in a carefully controlled manner to preserve patient privacy and to ensure that the data is used only for the purposes originally intended. Some example of disease based initiatives that we work with are:
+Our research uses data derived directly from groups of patients suffering from specific conditions who have consented to have some of their data shared for research puroposes. These data are made available to researchers in a carefully controlled manner to preserve patient privacy and to ensure that the data is used only for the purposes originally intended. Some example of disease based initiatives that we work with are:
 
 - [The Parkinson's Progression Markers Initiative](https://www.ppmi-info.org)
 - [The Simons Foundation for Autistm Resach Initiative (SFARI)](https://www.sfari.org)
