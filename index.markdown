@@ -5,5 +5,5 @@
 layout: home
 ---
 <figure>
-   <img src='informatics_header.jpg' style='max-width:750px;' />
+   <img src='assets/GroupMay2022_DollarGlen.jpg' style='max-width:750px;' />
 </figure>
