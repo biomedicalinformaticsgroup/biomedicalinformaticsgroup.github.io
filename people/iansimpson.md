@@ -8,7 +8,7 @@ exclude: true
 
 ## Ian Simpson
 
-<table>
+<table cellspacing='0' cellpadding='0'>
 <tr>
 <td>
 <b>Professor of Biomedical Informatics</b> (2023)<br>
@@ -18,7 +18,7 @@ D. Phil Genetics (Oxon)<br>
 B.A., M.A. Biochemistry (Hons. Oxon.)
 </td>
 <td>
-<img src='/assets/IanSimpson.jpg' style='max-width:150px;' />
+<img src='/assets/IanSimpson.jpg' style='max-width:200px;' />
 </td>
 </tr>
 </table>
