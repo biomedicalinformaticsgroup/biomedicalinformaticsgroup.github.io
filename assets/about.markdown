@@ -1,6 +1,5 @@
 ---
 layout: page
-title: about us
 permalink: /about/
 ---
 
@@ -10,7 +9,7 @@ permalink: /about/
 
 ## An Introduction to Our Work
 
-> We are the Biomedical Informatics group, part of the institute for [Adaptive and Neural Computation](http://web.inf.ed.ac.uk/anc) in the [School of Informatics](http://inf.ed.ac.uk) at the[University of Edinburgh](http://www.ed.ac.uk).
+> We are the Biomedical Informatics group, part of the institute for [Adaptive and Neural Computation](http://web.inf.ed.ac.uk/anc) in the [School of Informatics](http://inf.ed.ac.uk) at the [University of Edinburgh](http://www.ed.ac.uk).
 
 *We develop novel statistical and machine learning approaches to help us better understand human disease.*
 
