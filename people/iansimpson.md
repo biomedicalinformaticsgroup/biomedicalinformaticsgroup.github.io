@@ -11,14 +11,14 @@ exclude: true
 <table>
 <tr>
 <td>
-**Professor of Biomedical Informatics** (2023)<br>
+<b>Professor of Biomedical Informatics</b> (2023)<br>
 Reader in Biological Informatics (2019)<br>
 Lecturer in Biological Informatics (2018)<br>
 D. Phil Genetics (Oxon)<br>
 B.A., M.A. Biochemistry (Hons. Oxon.)
 </td>
 <td>
-<img src='/assets/IanSimpson.jpg' style='max-width:75px;' />
+<img src='/assets/IanSimpson.jpg' style='max-width:150px;' />
 </td>
 </tr>
 </table>
