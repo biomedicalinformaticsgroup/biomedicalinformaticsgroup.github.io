@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <figure>
-   <img src='/assets/research_themes/genomic_medicine/genomic_medicine.png' style='max-width:750px;' />
+   <img src='/assets/research_themes/genomic_medicine.png' style='max-width:750px;' />
 </figure>
 
 ## Network methods for Biomedical Applications
