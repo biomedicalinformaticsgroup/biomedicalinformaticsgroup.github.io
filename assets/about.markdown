@@ -29,4 +29,4 @@ We also work with initiatives that are population rather than specifically disea
 - [Genomics England](https://www.genomicsengland.co.uk)
 - [All Of Us](https://allofus.nih.gov)
 
-### Methodological Approaches
+You can find out more about our work by visiting our [research](https://biomedicalinformaticsgroup.github.io/research/) page.
