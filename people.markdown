@@ -22,11 +22,12 @@ permalink: /people/
 - Juliana Rodriguez Cubillos - PhD Student ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Andrew Millar](https://www.ed.ac.uk/profile/andrew-millar) and [Jason Swedlow](https://www.dundee.ac.uk/people/jason-swedlow)
 - Stefi Tirkova - Project Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
 - Chaeeun Lee - Project Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
+- Monishka Lalchandani - MSc. Project Student
 
 ### Alumni
-- Nicholas Moir - Research Services ([University of Edinburgh](https://www.ed.ac.uk/information-services)
+- Nicholas Moir - Edinburgh Parallel Computing Centre ([University of Edinburgh](https://www.ed.ac.uk/information-services)
 - Jessica Singh - Visiting Research Student ([University of Illinois Urbana-Champaign](https://illinois.edu))
-- Jamie Campbell - Clinical Genetics Trainee & Researcher in Natural Language Processing (NHS Grampian) [LinkedIn](https://www.linkedin.com/in/jamie-campbell-b984601a8/)
+- Jamie Campbell - Consultant in Clinical Genetics (NHS Lothian) [LinkedIn](https://www.linkedin.com/in/jamie-campbell-b984601a8/)
 - Magdalena Navarro - [LinkedIn](https://uk.linkedin.com/in/magdalena-navarro-torres-arpi-751b63131).
 - Alba Crespi - Data Scientist - [Health Data Science](https://www.dundee.ac.uk/medicine/research/population-health-genomics/health-data-science), School of Medicine, University of Dundee, Scotland
 - Colin McLean - Senior Data Scientist - [Institute of Genetics and Cancer](https://www.ed.ac.uk/cancer-centre/research/hall-group), CRUK Edinburgh Centre, University of Edinburgh, Scotland
