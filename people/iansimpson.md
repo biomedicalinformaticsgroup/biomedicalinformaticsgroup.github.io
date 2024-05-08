@@ -4,11 +4,10 @@ title: Ian Simpson
 permalink: /people/iansimpson
 exclude: true
 ---
-### Biography
 
 ## Ian Simpson
 
-<table cellspacing='0' cellpadding='0'>
+<table>
 <tr>
 <td>
 <b>Professor of Biomedical Informatics</b> (2023)<br>
