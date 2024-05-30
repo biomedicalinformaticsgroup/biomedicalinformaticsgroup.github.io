@@ -4,6 +4,9 @@ title: publications
 permalink: /publications/
 ---
 
+
+Gema AP, Lee C, Minervini P, Daines L, Simpson TI, and Alex B. Edinburgh Clinical NLP at MEDIQA-CORR 2024: Guiding Large Language Models with Hints. arXiv:2405.18028 2024. [https://doi.org/10.48550/arXiv.2405.18028](https://doi.org/10.48550/arXiv.2405.18028) [pre-print]
+
 Ryan B, Marioni RE, Simpson TI. An Integrative Network Approach for Longitudinal Stratification in Parkinson's Disease. medRxiv 2024. [https://doi.org/10.1101/2024.01.25.24301595](https://doi.org/10.1101/2024.01.25.24301595) [pre-print]
 
 Wood A, Mackaness W, Simpson TI, Armstrong JD. Improved prediction of hiking speeds using a data driven approach. PLoS ONE 2023 18(12): e0295848. [https://doi.org/10.1371/journal.pone.0295848](https://doi.org/10.1371/journal.pone.0295848)
