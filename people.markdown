@@ -12,7 +12,6 @@ permalink: /people/
 ### Current Group
 - Ian Simpson - Group Leader, Professor of Biomedical Informatics ([bio](/people/iansimpson.html)) ([contact](mailto:ian.simpson@ed.ac.uk))
 - Michael Yates - Senior Clinical Research Fellow & Consultant in Clinical Genetics (NHS Greater Glasgow and Clyde)
-- Aidan Marnane - PhD Student ([CDT in Data Science](https://web.inf.ed.ac.uk/cdt/epsrc-cdt-in-data-science/))
 - Barry Ryan - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
 - Tariro Chatiza - PhD Student ([Wellcome Trust PhD Programme in Translational Neuroscience](https://www.edinburghneuroscience.ed.ac.uk/wellcome-trust-4-year-phd-translational-neuroscience))
 - Sebestyén Kamp - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai) - with [Giovanni Stracquadanio](https://www.stracquadaniolab.org/))
@@ -24,6 +23,7 @@ permalink: /people/
 - Monishka Lalchandani - MSc. Project Student
 
 ### Alumni
+- Aidan Marnane -  Data Scientist @ [Applied Intelligence Analytics Ltd](https://www.aianalytics.ie/) - [GitHub](https://amarnane.github.io/about.html)
 - Antoine Lain - Post-Doctoral Researcher ([Posma Lab](https://www.imperial.ac.uk/people/j.posma11/research.html), Imperial College London)
 - Nicholas Moir - Edinburgh Parallel Computing Centre ([University of Edinburgh](https://www.ed.ac.uk/information-services)
 - Jessica Singh - Visiting Research Student ([University of Illinois Urbana-Champaign](https://illinois.edu))
