@@ -4,6 +4,9 @@ title: publications
 permalink: /publications/
 ---
 
+Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. Bioinformatics 2024 [in-press]
+
+Zimmermann J, Wiktorek D, Meusburger T, Monge-Dalmau M, Fabregat A, Jarasch A, Schmidt G, Reis-Filho JS, Simpson TI. The Ontoverse: Democratising Access to Knowledge Graph-based Data Through a Cartographic Interface. arXiv:2408.03339v1 2024. [https://doi.org/10.48550/arXiv.2408.03339](https://doi.org/10.48550/arXiv.2408.03339) [pre-print]
 
 Gema AP, Lee C, Minervini P, Daines L, Simpson TI, and Alex B. Edinburgh Clinical NLP at MEDIQA-CORR 2024: Guiding Large Language Models with Hints. arXiv:2405.18028 2024. [https://doi.org/10.48550/arXiv.2405.18028](https://doi.org/10.48550/arXiv.2405.18028) [pre-print]
 
