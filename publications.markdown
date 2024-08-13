@@ -4,6 +4,8 @@ title: publications
 permalink: /publications/
 ---
 
+Lee C, Simpson TI, Posma JM, Lain AD. Comparative Analyses of Multilingual Drug Entity Recognition Systems for Clinical Case Reports In Cardiology. CUE@MultiCardioNER submission at CLEF 2024 [https://ceur-ws.org/Vol-3740/](https://ceur-ws.org/Vol-3740/paper-14.pdf)
+
 Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. Bioinformatics 2024 [in-press]
 
 Zimmermann J, Wiktorek D, Meusburger T, Monge-Dalmau M, Fabregat A, Jarasch A, Schmidt G, Reis-Filho JS, Simpson TI. The Ontoverse: Democratising Access to Knowledge Graph-based Data Through a Cartographic Interface. arXiv:2408.03339v1 2024. [https://doi.org/10.48550/arXiv.2408.03339](https://doi.org/10.48550/arXiv.2408.03339) [pre-print]
