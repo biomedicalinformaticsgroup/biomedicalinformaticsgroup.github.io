@@ -18,7 +18,7 @@ Wood A, Mackaness W, Simpson TI, Armstrong JD. Improved prediction of hiking spe
 
 Kim H, Kim C, Sohn J, Beck T, Rei M, Kim S, Simpson, TI, Posma JM, Lain A, Sung M, Kang J. Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports. KU AIGEN ICL EDI@BC8 Track 3: Proceedings of the Biocreative VIII Challenge and Workshop 2023: Curation and Evaluation in the Era of Generative Models. AMIA 2023 Annual Symposium, New Orleans, USA. [https://doi.org/10.5281/zenodo.10104804](https://doi.org/10.5281/zenodo.10104804)
 
-Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. medRxiv 2023. [https://doi.org/10.1101/2023.07.09.23292410v2](https://doi.org/10.1101/2023.07.09.23292410v2) [pre-print]
+Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. medRxiv 2023. [https://doi.org/10.1101/2023.07.09.23292410](https://doi.org/10.1101/2023.07.09.23292410) [pre-print]
 
 Wood A, Mackaness W, Simpson TI, Armstrong JD. Improved prediction of hiking speeds using a data driven approach. arXiv 2023. [https://doi.org/10.48550/arXiv.2303.16065](https://doi.org/10.48550/arXiv.2303.16065) [pre-print]
 
