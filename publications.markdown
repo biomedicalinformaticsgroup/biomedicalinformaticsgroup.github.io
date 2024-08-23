@@ -6,6 +6,8 @@ permalink: /publications/
 
 Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. Bioinformatics 2024 [https://doi.org/10.1093/bioinformatics/btae523](https://doi.org/10.1093/bioinformatics/btae523).
 
+Lee C, Simpson TI, Posma JM, Lain AD. Comparative Analyses of Multilingual Drug Entity Recognition Systems for Clinical Case Reports In Cardiology. CUE@MultiCardioNER submission at CLEF 2024 [https://ceur-ws.org/Vol-3740/](https://ceur-ws.org/Vol-3740/paper-14.pdf)
+
 Zimmermann J, Wiktorek D, Meusburger T, Monge-Dalmau M, Fabregat A, Jarasch A, Schmidt G, Reis-Filho JS, Simpson TI. The Ontoverse: Democratising Access to Knowledge Graph-based Data Through a Cartographic Interface. arXiv:2408.03339v1 2024. [https://doi.org/10.48550/arXiv.2408.03339](https://doi.org/10.48550/arXiv.2408.03339) [pre-print]
 
 Gema AP, Lee C, Minervini P, Daines L, Simpson TI, and Alex B. Edinburgh Clinical NLP at MEDIQA-CORR 2024: Guiding Large Language Models with Hints. arXiv:2405.18028 2024. [https://doi.org/10.48550/arXiv.2405.18028](https://doi.org/10.48550/arXiv.2405.18028) [pre-print]
@@ -16,7 +18,7 @@ Wood A, Mackaness W, Simpson TI, Armstrong JD. Improved prediction of hiking spe
 
 Kim H, Kim C, Sohn J, Beck T, Rei M, Kim S, Simpson, TI, Posma JM, Lain A, Sung M, Kang J. Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports. KU AIGEN ICL EDI@BC8 Track 3: Proceedings of the Biocreative VIII Challenge and Workshop 2023: Curation and Evaluation in the Era of Generative Models. AMIA 2023 Annual Symposium, New Orleans, USA. [https://doi.org/10.5281/zenodo.10104804](https://doi.org/10.5281/zenodo.10104804)
 
-Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. medRxiv 2023. [https://doi.org/10.1101/2023.07.09.23292410v2](https://doi.org/10.1101/2023.07.09.23292410v2) [pre-print]
+Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. medRxiv 2023. [https://doi.org/10.1101/2023.07.09.23292410](https://doi.org/10.1101/2023.07.09.23292410) [pre-print]
 
 Wood A, Mackaness W, Simpson TI, Armstrong JD. Improved prediction of hiking speeds using a data driven approach. arXiv 2023. [https://doi.org/10.48550/arXiv.2303.16065](https://doi.org/10.48550/arXiv.2303.16065) [pre-print]
 
