@@ -12,17 +12,23 @@ permalink: /people/
 ### Current Group
 - Ian Simpson - Group Leader, Professor of Biomedical Informatics ([bio](/people/iansimpson.html)) ([contact](mailto:ian.simpson@ed.ac.uk))
 - Michael Yates - Senior Clinical Research Fellow & Consultant in Clinical Genetics (NHS Greater Glasgow and Clyde)
+
+### PhD Students (as Primary Supervisor)
 - Barry Ryan - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
 - Tariro Chatiza - PhD Student ([Wellcome Trust PhD Programme in Translational Neuroscience](https://www.edinburghneuroscience.ed.ac.uk/wellcome-trust-4-year-phd-translational-neuroscience))
 - Sebestyén Kamp - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai) - with [Giovanni Stracquadanio](https://www.stracquadaniolab.org/))
-- Maria Dolak - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
+- Marysia Dolak - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
 - Hanane Issa - PhD Student ([HDR UK-Turing Wellcome PhD Programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/))
+- Stefi Tirkova - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
+- Chaeeun Lee - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
+- Emilia Agassi - PhD Student ([AI CDT in Biomedical Innovation](https://www.ai4biomed.io))
+
+### PhD Students (as Assistant Supervisor)
 - Juliana Rodriguez Cubillos - PhD Student ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Andrew Millar](https://www.ed.ac.uk/profile/andrew-millar) and [Jason Swedlow](https://www.dundee.ac.uk/people/jason-swedlow)
-- Stefi Tirkova - Project Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
-- Chaeeun Lee - Project Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
-- Monishka Lalchandani - MSc. Project Student
+- Megan Saathoff - PhD student - PhD Student ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Lu Lu](https://www.ed.ac.uk/profile/lu-lu)
 
 ### Alumni
+- Monishka Lalchandani - MSc. Project Student
 - Aidan Marnane -  Data Scientist @ [Applied Intelligence Analytics Ltd](https://www.aianalytics.ie/) - [GitHub](https://amarnane.github.io/about.html)
 - Antoine Lain - Post-Doctoral Researcher ([Posma Lab](https://www.imperial.ac.uk/people/j.posma11/research.html), Imperial College London)
 - Nicholas Moir - Edinburgh Parallel Computing Centre ([University of Edinburgh](https://www.ed.ac.uk/information-services)
