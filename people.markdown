@@ -14,18 +14,19 @@ permalink: /people/
 - Michael Yates - Senior Clinical Research Fellow & Consultant in Clinical Genetics (NHS Greater Glasgow and Clyde)
 
 ### PhD Students (as Primary Supervisor)
-- Barry Ryan - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
-- Tariro Chatiza - PhD Student ([Wellcome Trust PhD Programme in Translational Neuroscience](https://www.edinburghneuroscience.ed.ac.uk/wellcome-trust-4-year-phd-translational-neuroscience))
-- Sebestyén Kamp - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai) - with [Giovanni Stracquadanio](https://www.stracquadaniolab.org/))
-- Marysia Dolak - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
-- Hanane Issa - PhD Student ([HDR UK-Turing Wellcome PhD Programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/))
-- Stefi Tirkova - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
-- Chaeeun Lee - PhD Student ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
-- Emilia Agassi - PhD Student ([AI CDT in Biomedical Innovation](https://www.ai4biomed.io))
+- Barry Ryan ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) - with [Riccardo Marioni](https://www.ed.ac.uk/centre-genomic-medicine/research-groups/marioni-group)
+- Tariro Chatiza ([Wellcome Trust PhD Programme in Translational Neuroscience](https://www.edinburghneuroscience.ed.ac.uk/wellcome-trust-4-year-phd-translational-neuroscience)) - with [Richard Chin](https://www.ed.ac.uk/profile/dr-richard-chin) & [Karen Mackenzie](https://www.ed.ac.uk/inflammation-research/people/principal-investigators/dr-karen-mackenzie)
+- Sebestyén Kamp ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) - with [Giovanni Stracquadanio](https://www.stracquadaniolab.org/)
+- Marysia Dolak ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
+- Hanane Issa ([HDR UK-Turing Wellcome PhD Programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/)) - with [Michael Yates](https://www.inf.ed.ac.uk/people/staff/Michael_Yates.html)
+- Stefi Tirkova ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) - [Riccardo Marioni](https://www.ed.ac.uk/centre-genomic-medicine/research-groups/marioni-group)
+- Chaeeun Lee ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) - [Pasquale Minervi](http://www.neuralnoise.com)
+- Emilia Agassi ([AI CDT in Biomedical Innovation](https://www.ai4biomed.io)) with [Charlie Gourley](https://www.ed.ac.uk/profile/charlie-gourley)
 
 ### PhD Students (as Assistant Supervisor)
-- Juliana Rodriguez Cubillos - PhD Student ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Andrew Millar](https://www.ed.ac.uk/profile/andrew-millar) and [Jason Swedlow](https://www.dundee.ac.uk/people/jason-swedlow)
-- Megan Saathoff - PhD student - PhD Student ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Lu Lu](https://www.ed.ac.uk/profile/lu-lu)
+- Juliana Rodriguez Cubillos ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Andrew Millar](https://www.ed.ac.uk/profile/andrew-millar) and [Jason Swedlow](https://www.dundee.ac.uk/people/jason-swedlow)
+- Megan Saathoff ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Lu Lu](https://www.ed.ac.uk/profile/lu-lu)
+- Núria Fàbrega I Ribas ([AI CDT in Biomedical Innovation](https://www.ai4biomed.io)) with [Kenny Baillie](https://baillielab.net)
 
 ### Alumni
 - Monishka Lalchandani - MSc. Project Student
