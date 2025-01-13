@@ -5,9 +5,9 @@ permalink: /people/
 ---
 
 <figure>
-   <img src='/assets/GroupMay2022_DollarGlen.jpg' style='max-width:750px;' />
+   <img src='/assets/GroupAndaluzSmallDec2024.jpg' style='max-width:750px;' />
 </figure>
-<h6><i>Group visit to Dollar Glen May 2022</i></h6>
+<h6><i>Group Outing December 2024</i></h6>
 
 ### Current Group
 - Ian Simpson - Group Leader, Professor of Biomedical Informatics ([bio](/people/iansimpson.html)) ([contact](mailto:ian.simpson@ed.ac.uk))
@@ -17,11 +17,12 @@ permalink: /people/
 - Barry Ryan ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Riccardo Marioni](https://www.ed.ac.uk/centre-genomic-medicine/research-groups/marioni-group)
 - Tariro Chatiza ([Wellcome Trust PhD Programme in Translational Neuroscience](https://www.edinburghneuroscience.ed.ac.uk/wellcome-trust-4-year-phd-translational-neuroscience)) with [Richard Chin](https://www.ed.ac.uk/profile/dr-richard-chin) & [Karen Mackenzie](https://www.ed.ac.uk/inflammation-research/people/principal-investigators/dr-karen-mackenzie)
 - Sebestyén Kamp ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Giovanni Stracquadanio](https://www.stracquadaniolab.org/)
-- Marysia Dolak ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai))
+- Marysia Dolak ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Silvia de Rubeis](https://profiles.mountsinai.org/silvia-de-rubeis)
 - Hanane Issa ([HDR UK-Turing Wellcome PhD Programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/)) with [Michael Yates](https://www.inf.ed.ac.uk/people/staff/Michael_Yates.html)
 - Stefi Tirkova ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Riccardo Marioni](https://www.ed.ac.uk/centre-genomic-medicine/research-groups/marioni-group)
 - Chaeeun Lee ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Pasquale Minervi](http://www.neuralnoise.com)
 - Emilia Agassi ([AI CDT in Biomedical Innovation](https://www.ai4biomed.io)) with [Charlie Gourley](https://www.ed.ac.uk/profile/charlie-gourley)
+- Elisa Castagnari ([AI for Biomedical Innovation](https://www.ai4biomed.io)) with [Honghan Wu](https://www.gla.ac.uk/schools/healthwellbeing/staff/honghanwu/) and Roche
 
 ### PhD Students (as Assistant Supervisor)
 - Juliana Rodriguez Cubillos ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Andrew Millar](https://www.ed.ac.uk/profile/andrew-millar) and [Jason Swedlow](https://www.dundee.ac.uk/people/jason-swedlow)
