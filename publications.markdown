@@ -4,13 +4,17 @@ title: publications
 permalink: /publications/
 ---
 
+Ryan B, Lee C, Marioni R, Minervini P, Simpson TI. Combining Clinical Embeddings with Multi-Omic Features for Improved Patient Classification and Interpretability in Parkinsons Disease. [medRxiv 2025.01.17.25320664](https://doi.org/10.1101/2025.01.17.25320664) [pre-print]
+
+Moir N, Pearce DA, Langdon SP, Simpson TI. The significance of molecular heterogeneity in breast cancer batch correction and dataset integration. [medRxiv 2024.12.22.24319524](https://doi.org/10.1101/2024.12.22.24319524) [pre-print]
+
 Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. Bioinformatics 2024 [https://doi.org/10.1093/bioinformatics/btae523](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae523/7739700?rss=1).
 
 Lee C, Simpson TI, Posma JM, Lain AD. Comparative Analyses of Multilingual Drug Entity Recognition Systems for Clinical Case Reports In Cardiology. CUE@MultiCardioNER submission at CLEF 2024 [https://ceur-ws.org/Vol-3740/](https://ceur-ws.org/Vol-3740/paper-14.pdf)
 
-Zimmermann J, Wiktorek D, Meusburger T, Monge-Dalmau M, Fabregat A, Jarasch A, Schmidt G, Reis-Filho JS, Simpson TI. The Ontoverse: Democratising Access to Knowledge Graph-based Data Through a Cartographic Interface. arXiv:2408.03339v1 2024. [https://doi.org/10.48550/arXiv.2408.03339](https://doi.org/10.48550/arXiv.2408.03339) [pre-print]
+Zimmermann J, Wiktorek D, Meusburger T, Monge-Dalmau M, Fabregat A, Jarasch A, Schmidt G, Reis-Filho JS, Simpson TI. The Ontoverse: Democratising Access to Knowledge Graph-based Data Through a Cartographic Interface. [arXiv:2408.03339v1 2024](https://doi.org/10.48550/arXiv.2408.03339) [pre-print]
 
-Gema AP, Lee C, Minervini P, Daines L, Simpson TI, and Alex B. Edinburgh Clinical NLP at MEDIQA-CORR 2024: Guiding Large Language Models with Hints. arXiv:2405.18028 2024. [https://doi.org/10.48550/arXiv.2405.18028](https://doi.org/10.48550/arXiv.2405.18028) [pre-print]
+Gema AP, Lee C, Minervini P, Daines L, Simpson TI, and Alex B. Edinburgh Clinical NLP at MEDIQA-CORR 2024: Guiding Large Language Models with Hints. [arXiv:2405.18028 2024](https://doi.org/10.48550/arXiv.2405.18028) [pre-print]
 
 Ryan B, Marioni RE, Simpson TI. An Integrative Network Approach for Longitudinal Stratification in Parkinson's Disease. medRxiv 2024. [https://doi.org/10.1101/2024.01.25.24301595](https://doi.org/10.1101/2024.01.25.24301595) [pre-print]
 
