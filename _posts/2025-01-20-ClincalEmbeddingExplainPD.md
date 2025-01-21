@@ -5,7 +5,7 @@ date:   2025-01-20 09:00:00 +0000
 categories: research
 ---
 
-<img style="margin-left: 2rem" align="right" src="assets/clinicalembed_mogdx_pd_pipeline.jpg" width = "500px" >
+<img style="margin-left: 2rem" align="right" src="/assets/clinicalembed_mogdx_pd_pipeline.jpg" width = "500px" >
 
 #### *Barry Ryan, Chaeeun Lee, Riccardo Marioni, Pasquale Minervini, T. Ian Simpson*
 

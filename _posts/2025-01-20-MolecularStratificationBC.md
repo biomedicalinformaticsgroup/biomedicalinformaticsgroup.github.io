@@ -5,7 +5,7 @@ date:   2025-01-20 08:50:00 +0000
 categories: research
 ---
 
-<img style="margin-left: 2rem" align="right" src="assets/BatchEffects.jpg" width = "500px" >
+<img style="margin-left: 2rem" align="right" src="/assets/BatchEffects.jpg" width = "500px" >
 
 #### *Nicholas Moir, Dominic Pearce, Simon Langdon, T. Ian Simpson*
 
