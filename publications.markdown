@@ -4,6 +4,8 @@ title: publications
 permalink: /publications/
 ---
 
+Ryan B, Marioni RE, Simpson TI. An Integrative Network Approach for Longitudinal Stratification in Parkinson's Disease. (in-press PLoS. Comp. Bio 2025)
+
 Ryan B, Lee C, Marioni R, Minervini P, Simpson TI. Combining Clinical Embeddings with Multi-Omic Features for Improved Patient Classification and Interpretability in Parkinsons Disease. [medRxiv 2025.01.17.25320664](https://doi.org/10.1101/2025.01.17.25320664) [pre-print]
 
 Moir N, Pearce DA, Langdon SP, Simpson TI. The significance of molecular heterogeneity in breast cancer batch correction and dataset integration. [medRxiv 2024.12.22.24319524](https://doi.org/10.1101/2024.12.22.24319524) [pre-print]
