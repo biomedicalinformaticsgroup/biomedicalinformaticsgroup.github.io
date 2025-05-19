@@ -29,6 +29,10 @@ permalink: /people/
 - Megan Saathoff ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Lu Lu](https://www.ed.ac.uk/profile/lu-lu)
 - Núria Fàbrega I Ribas ([AI CDT in Biomedical Innovation](https://www.ai4biomed.io)) with [Kenny Baillie](https://baillielab.net)
 
+### Visiting Research Students
+- Simona Doneva, [Centre for Reproducible Science, University of Zurich, Switzerland](https://www.crs.uzh.ch/en/people/team/Simona-Doneva.html)
+- Charu Joshi, [Gujarat Biotechnology University Gandhinagar, India](https://gbu.edu.in)
+
 ### Alumni
 - Monishka Lalchandani - MSc. Project Student
 - Aidan Marnane -  Data Scientist @ [Applied Intelligence Analytics Ltd](https://www.aianalytics.ie/) - [GitHub](https://amarnane.github.io/about.html)
