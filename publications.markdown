@@ -4,6 +4,8 @@ title: publications
 permalink: /publications/
 ---
 
+S. Kamp, G. Stracquadanio, and T. I. Simpson, GNN-Suite: a Graph Neural Network Benchmarking Framework for Biomedical Informatics. arXiv.2505.10711 2025 [https://doi.org/10.48550/arXiv.2505.10711](https://doi.org/10.48550/arXiv.2505.10711). [pre-print]
+
 Ryan B, Marioni RE, Simpson TI. Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogeneous diseases. Bioinformatics 2024 [https://doi.org/10.1093/bioinformatics/btae523](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae523/7739700?rss=1).
 
 Lee C, Simpson TI, Posma JM, Lain AD. Comparative Analyses of Multilingual Drug Entity Recognition Systems for Clinical Case Reports In Cardiology. CUE@MultiCardioNER submission at CLEF 2024 [https://ceur-ws.org/Vol-3740/](https://ceur-ws.org/Vol-3740/paper-14.pdf)
