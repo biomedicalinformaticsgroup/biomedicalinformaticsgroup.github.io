@@ -4,6 +4,8 @@ title: publications
 permalink: /publications/
 ---
 
+Weissenbacher, D., Zhao, X., Priestley, J. R. C., et al. Automatic genetic phenotype normalization from dysmorphology physical examinations: an overview of the BioCreative VIII—Task 3 competition. Database (2025) Vol. 2025: article ID baaf051. [https://doi.org/10.1093/database/baaf051](https://doi.org/10.1093/database/baaf051)
+
 S. Kamp, G. Stracquadanio, and T. I. Simpson, GNN-Suite: a Graph Neural Network Benchmarking Framework for Biomedical Informatics. arXiv.2505.10711 2025 [https://doi.org/10.48550/arXiv.2505.10711](https://doi.org/10.48550/arXiv.2505.10711). [pre-print]
 
 Ryan B, Marioni R, Simpson TI. An integrative network approach for longitudinal stratification in Parkinson’s disease. PLOS Computational Biology 2025 21(3): e1012857. [https://doi.org/10.1371/journal.pcbi.1012857](https://doi.org/10.1371/journal.pcbi.1012857)
