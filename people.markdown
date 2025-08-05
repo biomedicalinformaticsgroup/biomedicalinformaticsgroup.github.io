@@ -20,21 +20,21 @@ permalink: /people/
 - Marysia Dolak ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Silvia de Rubeis](https://profiles.mountsinai.org/silvia-de-rubeis)
 - Hanane Issa ([HDR UK-Turing Wellcome PhD Programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/)) with [Michael Yates](https://www.inf.ed.ac.uk/people/staff/Michael_Yates.html)
 - Stefi Tirkova ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Riccardo Marioni](https://www.ed.ac.uk/centre-genomic-medicine/research-groups/marioni-group)
-- Chaeeun Lee ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Pasquale Minervi](http://www.neuralnoise.com)
+- Chaeeun Lee ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Pasquale Minervini](http://www.neuralnoise.com)
 - Emilia Agassi ([AI CDT in Biomedical Innovation](https://www.ai4biomed.io)) with [Charlie Gourley](https://www.ed.ac.uk/profile/charlie-gourley)
+- Núria Fàbrega I Ribas ([AI CDT in Biomedical Innovation](https://www.ai4biomed.io)) with [Kenny Baillie](https://baillielab.net) and [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/)
 - Elisa Castagnari ([AI for Biomedical Innovation](https://www.ai4biomed.io)) with [Honghan Wu](https://www.gla.ac.uk/schools/healthwellbeing/staff/honghanwu/) and Roche
 
 ### PhD Students (as Assistant Supervisor)
 - Juliana Rodriguez Cubillos ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Andrew Millar](https://www.ed.ac.uk/profile/andrew-millar) and [Jason Swedlow](https://www.dundee.ac.uk/people/jason-swedlow)
 - Megan Saathoff ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Lu Lu](https://www.ed.ac.uk/profile/lu-lu)
-- Núria Fàbrega I Ribas ([AI CDT in Biomedical Innovation](https://www.ai4biomed.io)) with [Kenny Baillie](https://baillielab.net)
 
 ### Visiting Research Students
 - Simona Doneva, [Centre for Reproducible Science, University of Zurich, Switzerland](https://www.crs.uzh.ch/en/people/team/Simona-Doneva.html)
-- Charu Joshi, [Gujarat Biotechnology University Gandhinagar, India](https://gbu.edu.in)
 
 ### Alumni
-- Monishka Lalchandani - MSc. Project Student
+- Charu Joshi, Visiting MSc. Student [Gujarat Biotechnology University Gandhinagar, India](https://gbu.edu.in)
+- Monishka Lalchandani - MSc. Student
 - Aidan Marnane -  Data Scientist @ [Applied Intelligence Analytics Ltd](https://www.aianalytics.ie/) - [GitHub](https://amarnane.github.io/about.html)
 - Antoine Lain - Post-Doctoral Researcher ([Posma Lab](https://www.imperial.ac.uk/people/j.posma11/research.html), Imperial College London)
 - Nicholas Moir - Edinburgh Parallel Computing Centre ([University of Edinburgh](https://www.ed.ac.uk/information-services)
