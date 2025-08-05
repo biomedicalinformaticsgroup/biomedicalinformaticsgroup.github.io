@@ -5,5 +5,5 @@
 layout: home
 ---
 <figure>
-   <img src='assets/GroupMay2022_DollarGlen.jpg' style='max-width:750px;' />
+   <img src='assets/GroupJuly2025_DollarGlen.jpg' style='max-width:750px;' />
 </figure>
