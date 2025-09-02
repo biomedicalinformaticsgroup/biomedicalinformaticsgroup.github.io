@@ -17,7 +17,7 @@ D. Phil Genetics (Oxon)<br>
 B.A., M.A. Biochemistry (Hons. Oxon.)
 </td>
 <td>
-<img src='/assets/IanSimpson.jpg' style='max-width:200px;' />
+<img src='/assets/IanSimpsonAI.jpg' style='max-width:300px;' />
 </td>
 </tr>
 </table>
