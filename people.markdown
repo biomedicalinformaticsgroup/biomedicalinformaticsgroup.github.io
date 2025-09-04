@@ -31,7 +31,7 @@ permalink: /people/
 ### Visiting Research Students
 
 ### Alumni
-- Barry Ryan PhD - Post-Doctoral Researcher in the [Fellay Group, EPFL Lausanne, Switzerland](https://www.epfl.ch/labs/fellay-lab/) - [GitHub](https://github.com/Barry8197)
+- Barry Ryan PhD - Post-Doctoral Researcher in the [Fellay Group, EPFL Lausanne, Switzerland](https://www.epfl.ch/labs/fellay-lab/) - [:octocat:](https://github.com/Barry8197)
 - Simona Doneva, Visiting PhD student [Centre for Reproducible Science, University of Zurich, Switzerland](https://www.crs.uzh.ch/en/people/team/Simona-Doneva.ht) - [GitHub](https://github.com/simonada)
 - Charu Joshi, Visiting MSc. student [Gujarat Biotechnology University Gandhinagar, India](https://gbu.edu.in)
 - Monishka Lalchandani - MSc. student [School of Informatics, University of Edinburgh](https://inf.ed.ac.uk)
