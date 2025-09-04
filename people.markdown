@@ -32,11 +32,11 @@ permalink: /people/
 
 ### Alumni
 - Barry Ryan PhD - Post-Doctoral Researcher [Fellay Group, EPFL Lausanne, Switzerland](https://www.epfl.ch/labs/fellay-lab/) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/Barry8197)
-- Simona Doneva, Visiting PhD student [Centre for Reproducible Science, University of Zurich, Switzerland](https://www.crs.uzh.ch/en/people/team/Simona-Doneva.ht) - [GitHub](https://github.com/simonada)
+- Simona Doneva, Visiting PhD student [Centre for Reproducible Science, University of Zurich, Switzerland](https://www.crs.uzh.ch/en/people/team/Simona-Doneva.ht) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/simonada)
 - Charu Joshi, Visiting MSc. student [Gujarat Biotechnology University Gandhinagar, India](https://gbu.edu.in)
 - Monishka Lalchandani - MSc. student [School of Informatics, University of Edinburgh](https://inf.ed.ac.uk)
-- Aidan Marnane PhD -  Senior Solutions Engineer [Deloitte](https://www.deloitte.com/uk/en.html) - [GitHub](https://amarnane.github.io/about.html)
-- Antoine Lain PhD - Post-Doctoral Researcher ([Posma Lab](https://www.imperial.ac.uk/people/j.posma11/research.html), Imperial College London) - [GitHub](https://github.com/Antoinelfr)
+- Aidan Marnane PhD -  Senior Solutions Engineer [Deloitte](https://www.deloitte.com/uk/en.html) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://amarnane.github.io/about.html)
+- Antoine Lain PhD - Post-Doctoral Researcher ([Posma Lab](https://www.imperial.ac.uk/people/j.posma11/research.html), Imperial College London) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/Antoinelfr)
 - Nicholas Moir PhD - Edinburgh Parallel Computing Centre ([University of Edinburgh](https://www.ed.ac.uk/information-services)
 - Jessica Singh - Visiting Research Student ([University of Illinois Urbana-Champaign](https://illinois.edu))
 - Jamie Campbell MD - Consultant in Clinical Genetics (NHS Lothian) [LinkedIn](https://www.linkedin.com/in/jamie-campbell-b984601a8/)
