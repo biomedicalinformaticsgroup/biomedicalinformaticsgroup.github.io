@@ -14,7 +14,6 @@ permalink: /people/
 - Michael Yates - Senior Clinical Research Fellow & Consultant in Clinical Genetics (NHS Greater Glasgow and Clyde)
 
 ### PhD Students (as Primary Supervisor)
-- Barry Ryan ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Riccardo Marioni](https://www.ed.ac.uk/centre-genomic-medicine/research-groups/marioni-group)
 - Tariro Chatiza ([Wellcome Trust PhD Programme in Translational Neuroscience](https://www.edinburghneuroscience.ed.ac.uk/wellcome-trust-4-year-phd-translational-neuroscience)) with [Richard Chin](https://www.ed.ac.uk/profile/dr-richard-chin) & [Karen Mackenzie](https://www.ed.ac.uk/inflammation-research/people/principal-investigators/dr-karen-mackenzie)
 - Sebestyén Kamp ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Giovanni Stracquadanio](https://www.stracquadaniolab.org/)
 - Marysia Dolak ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Silvia de Rubeis](https://profiles.mountsinai.org/silvia-de-rubeis)
@@ -30,10 +29,11 @@ permalink: /people/
 - Megan Saathoff ([EASTBIO DTP](http://www.eastscotbiodtp.ac.uk)) with [Lu Lu](https://www.ed.ac.uk/profile/lu-lu)
 
 ### Visiting Research Students
-- Simona Doneva, [Centre for Reproducible Science, University of Zurich, Switzerland](https://www.crs.uzh.ch/en/people/team/Simona-Doneva.html)
 
 ### Alumni
-- Charu Joshi, Visiting MSc. Student [Gujarat Biotechnology University Gandhinagar, India](https://gbu.edu.in)
+- Barry Ryan - Post-Doctoral Researcher [Fellay Group, EPFL Lausanne, Switzerland](https://www.epfl.ch/labs/fellay-lab/)
+- Simona Doneva, Visiting PhD student [Centre for Reproducible Science, University of Zurich, Switzerland](https://www.crs.uzh.ch/en/people/team/Simona-Doneva.ht)
+- Charu Joshi, Visiting MSc.    Ssstudent [Gujarat Biotechnology University Gandhinagar, India](https://gbu.edu.in)
 - Monishka Lalchandani - MSc. Student
 - Aidan Marnane -  Data Scientist @ [Applied Intelligence Analytics Ltd](https://www.aianalytics.ie/) - [GitHub](https://amarnane.github.io/about.html)
 - Antoine Lain - Post-Doctoral Researcher ([Posma Lab](https://www.imperial.ac.uk/people/j.posma11/research.html), Imperial College London)
