@@ -31,16 +31,16 @@ permalink: /people/
 ### Visiting Research Students
 
 ### Alumni
-- Barry Ryan PhD - Post-Doctoral Researcher in the [Fellay Group, EPFL Lausanne, Switzerland](https://www.epfl.ch/labs/fellay-lab/) - [:octocat:](https://github.com/Barry8197)
+- Barry Ryan PhD - Post-Doctoral Researcher [Fellay Group, EPFL Lausanne, Switzerland](https://www.epfl.ch/labs/fellay-lab/) - [GitHub](https://github.com/Barry8197)
 - Simona Doneva, Visiting PhD student [Centre for Reproducible Science, University of Zurich, Switzerland](https://www.crs.uzh.ch/en/people/team/Simona-Doneva.ht) - [GitHub](https://github.com/simonada)
 - Charu Joshi, Visiting MSc. student [Gujarat Biotechnology University Gandhinagar, India](https://gbu.edu.in)
 - Monishka Lalchandani - MSc. student [School of Informatics, University of Edinburgh](https://inf.ed.ac.uk)
-- Aidan Marnane PhD -  Senior Solutions Engineer at [Deloitte](https://www.deloitte.com/uk/en.html) - [GitHub](https://amarnane.github.io/about.html)
+- Aidan Marnane PhD -  Senior Solutions Engineer [Deloitte](https://www.deloitte.com/uk/en.html) - [GitHub](https://amarnane.github.io/about.html)
 - Antoine Lain PhD - Post-Doctoral Researcher ([Posma Lab](https://www.imperial.ac.uk/people/j.posma11/research.html), Imperial College London) - [GitHub](https://github.com/Antoinelfr)
 - Nicholas Moir PhD - Edinburgh Parallel Computing Centre ([University of Edinburgh](https://www.ed.ac.uk/information-services)
 - Jessica Singh - Visiting Research Student ([University of Illinois Urbana-Champaign](https://illinois.edu))
 - Jamie Campbell MD - Consultant in Clinical Genetics (NHS Lothian) [LinkedIn](https://www.linkedin.com/in/jamie-campbell-b984601a8/)
-- Magdalena Navarro PhD - [LinkedIn](https://uk.linkedin.com/in/magdalena-navarro-torres-arpi-751b63131).
+- Magdalena Navarro PhD - Senior Mapping Scientist [Space Intelligence](https://www.space-intelligence.com)
 - Alba Crespi PhD - Data Scientist - [Health Data Science](https://www.dundee.ac.uk/medicine/research/population-health-genomics/health-data-science), School of Medicine, University of Dundee, Scotland
 - Colin McLean - Senior Data Scientist - [Institute of Genetics and Cancer](https://www.ed.ac.uk/cancer-centre/research/hall-group), CRUK Edinburgh Centre, University of Edinburgh, Scotland
 - Sam Heron PhD - Post-Doc @ [Cancer Research Unit](https://www.utu.fi/en/university/faculty-of-medicine/institute-of-biomedicine/research/cancer-research), Institute of Biomedicine, University of Turku, Turku, Finland
