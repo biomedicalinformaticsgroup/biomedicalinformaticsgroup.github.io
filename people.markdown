@@ -9,6 +9,8 @@ permalink: /people/
 </figure>
 <h6><i>Group Outing December 2024</i></h6>
 
+The group GitHub Site with our publicly available tools and resources can be found here - [https://github.com/biomedicalinformaticsgroup](https://github.com/biomedicalinformaticsgroup)
+
 ### Current Group
 - Ian Simpson - Group Leader, Professor of Biomedical Informatics ([bio](/people/iansimpson.html)) ([contact](mailto:ian.simpson@ed.ac.uk)) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/tisimpson)
 - Michael Yates - Senior Clinical Research Fellow & Consultant in Clinical Genetics (NHS Greater Glasgow and Clyde) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/tmyates)
