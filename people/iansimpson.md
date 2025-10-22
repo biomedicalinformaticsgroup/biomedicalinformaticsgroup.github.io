@@ -14,7 +14,7 @@ exclude: true
 Reader in Biological Informatics (2019)<br>
 Lecturer in Biological Informatics (2018)<br>
 D. Phil Genetics (Oxon)<br>
-B.A., M.A. Biochemistry (Hons. Oxon.)
+B.A., M.A. Biochemistry (Hons. Oxon.)<br>
 <br>
 Director UKRI AI Centre for Doctoral Training in Biomedical Innovation (2024-2032)<br>
 <br>
