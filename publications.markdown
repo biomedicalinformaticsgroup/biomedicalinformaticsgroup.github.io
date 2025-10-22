@@ -4,6 +4,8 @@ title: publications
 permalink: /publications/
 ---
 
+Moir N, Pearce DA, Langdon SP, Simpson TI. The significance of molecular heterogeneity in breast cancer batch correction and dataset integration. Breast Cancer Research 2025 (in-press)
+
 Lee C, Doneva SE, Rodriguez-Cubillos MJ, Castagnari E, Lain AD, Posma JM, Simpson TI. Understanding Gut-Brain Interplay in Scientific Literature: A Hybrid Approach from Classification to Generative LLM Reasoning [CLEF Working Notes (2025) pp.393-410](https://ceur-ws.org/Vol-4038/paper_27.pdf)
 
 Lain AD, Lee C, Doneva SE, Rodriguez-Cubillos MJ, Castagnari E, Simpson TI, Posma JM. Multilingual and Nested Biomedical Named Entity Normalization via Candidate Retrieval and Lightweight Large Language Model Disambiguation [CLEF Working Notes (2025) pp.383-392](https://ceur-ws.org/Vol-4038/paper_26.pdf)
