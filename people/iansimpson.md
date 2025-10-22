@@ -16,9 +16,9 @@ Lecturer in Biological Informatics (2018)<br>
 D. Phil Genetics (Oxon)<br>
 B.A., M.A. Biochemistry (Hons. Oxon.)
 <br>
+Director UKRI AI Centre for Doctoral Training in Biomedical Innovation (2024-2032)<br>
 <br>
-Director UKRI AI Centre for Doctoral Training in Biomedical Innovation (2024-2032)
-Director Centre for Doctoral Training in Biomedical Artificial Intelligence (2018-2024)
+Director Centre for Doctoral Training in Biomedical Artificial Intelligence (2018-2024)<br>
 </td>
 <td>
 <img src='/assets/IanSimpsonAI.jpg' style='max-width:300px;' />
