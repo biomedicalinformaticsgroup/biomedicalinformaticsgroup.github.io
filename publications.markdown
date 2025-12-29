@@ -6,7 +6,7 @@ permalink: /publications/
 
 Yates TM, Hunt SE, Lemos D, Pericherla SR, Uhalte EC, Ansari M, Thompson L, Doneva SE, Wright CF, Firth HV, Simpson TI. Domain-wide Mapping of Peer-reviewed Literature for Genetic Developmental Disorders using Machine Learning and Gene2Phenotype. [medRxiv 2025.11.24.25340871](https://www.doi.org/10.1101/2025.11.24.25340871). [pre-print]
 
-Moir N, Pearce DA, Langdon SP, Simpson TI. The significance of molecular heterogeneity in breast cancer batch correction and dataset integration. BMC Breast Cancer Research 2025 (in-press)
+Moir, N., Pearce, D.A., Langdon, S.P. and Simpson TI. The significance of molecular heterogeneity in breast cancer batch correction and dataset integration. Breast Cancer Res 2025 27(219). [https://doi.org/10.1186/s13058-025-02159-7](https://doi.org/10.1186/s13058-025-02159-7)
 
 Lee C, Doneva SE, Rodriguez-Cubillos MJ, Castagnari E, Lain AD, Posma JM, Simpson TI. Understanding Gut-Brain Interplay in Scientific Literature: A Hybrid Approach from Classification to Generative LLM Reasoning [CLEF Working Notes (2025) pp.393-410](https://ceur-ws.org/Vol-4038/paper_27.pdf)
 
