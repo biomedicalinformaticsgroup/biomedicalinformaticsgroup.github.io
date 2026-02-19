@@ -4,7 +4,9 @@ title: publications
 permalink: /publications/
 ---
 
-Yates TM, Hunt SE, Lemos D, Pericherla SR, Uhalte EC, Ansari M, Thompson L, Doneva SE, Wright CF, Firth HV, Simpson TI. Domain-wide Mapping of Peer-reviewed Literature for Genetic Developmental Disorders using Machine Learning and Gene2Phenotype. [medRxiv 2025.11.24.25340871](https://www.doi.org/10.1101/2025.11.24.25340871). [pre-print]
+Lee C, Yates MT, Minervini P, and Simpson TI. Process-Supervised Multi-Agent Reinforcement Learning for Reliable Clinical Reasoning. arXiv.2602.14160 2026. [https://arxiv.org/abs/2602.14160](https://arxiv.org/abs/2602.14160). [pre-print]
+
+Yates TM, Hunt SE, Lemos D, Pericherla SR, Uhalte EC, Ansari M, Thompson L, Doneva SE, Wright CF, Firth HV, Simpson TI. Domain-wide Mapping of Peer-reviewed Literature for Genetic Developmental Disorders using Machine Learning and Gene2Phenotype. medRxiv 2025. [medRxiv 2025.11.24.25340871](https://www.doi.org/10.1101/2025.11.24.25340871). [pre-print]
 
 Moir, N., Pearce, D.A., Langdon, S.P. and Simpson TI. The significance of molecular heterogeneity in breast cancer batch correction and dataset integration. Breast Cancer Res 2025 27(219). [https://doi.org/10.1186/s13058-025-02159-7](https://doi.org/10.1186/s13058-025-02159-7)
 
