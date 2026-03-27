@@ -4,7 +4,7 @@ title: publications
 permalink: /publications/
 ---
 
-Hunt SE, Lemos D, Pericherla SR, Austine-Orimoloye O; Cibrian-Uhalte E, Yates TM, Ansari M, Thompson L, Foreman J, Ware J, Simpson TI, Wright CF, Freeberg MA, Firth HV. Gene2Phenotype: a database of structured human monogenic diseases and pathomechanisms Journal of Molecular Biology 2026 (in-press)
+Hunt SE, Lemos D, Pericherla SR, Austine-Orimoloye O; Cibrian-Uhalte E, Yates TM, Ansari M, Thompson L, Foreman J, Ware J, Simpson TI, Wright CF, Freeberg MA, Firth HV. Gene2Phenotype: a database of structured human monogenic diseases and pathomechanisms. Journal of Molecular Biology, 2026,169768,[https://doi.org/10.1016/j.jmb.2026.169768](https://doi.org/10.1016/j.jmb.2026.169768).
 
 Lee C, Yates MT, Minervini P, and Simpson TI. Process-Supervised Multi-Agent Reinforcement Learning for Reliable Clinical Reasoning. arXiv.2602.14160 2026. [https://arxiv.org/abs/2602.14160](https://arxiv.org/abs/2602.14160). [pre-print]
 
