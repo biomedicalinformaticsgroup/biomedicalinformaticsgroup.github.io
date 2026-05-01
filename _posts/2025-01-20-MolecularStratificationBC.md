@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The significance of molecular heterogeneity in breast cancer batch correction and dataset integration"
-date:   2025-01-20 08:50:00 +0000
+date:   2025-12-24 08:50:00 +0000
 categories: research
 ---
 
@@ -13,4 +13,6 @@ Breast cancer research benefits from a substantial collection of gene expression
 
 We demonstrate that leveraging a priori knowledge of sample molecular subtype classification can optimally remove batch effect distortion while preserving key biomarker expression variation and transcriptional legitimacy. To the best of our knowledge, this study presents the first analysis of the interplay between dataset molecular composition and the concomitant robustness of integrated, batch-corrected biological expression signal.
 
-For more information find the preprint to our paper online [here](https://www.medrxiv.org/content/10.1101/2024.12.22.24319524v1)
+For more information the full article is published here: 
+
+Moir, N., Pearce, D.A., Langdon, S.P. and Simpson TI. The significance of molecular heterogeneity in breast cancer batch correction and dataset integration. Breast Cancer Res 2025 27(219). [https://doi.org/10.1186/s13058-025-02159-7](https://doi.org/10.1186/s13058-025-02159-7).
