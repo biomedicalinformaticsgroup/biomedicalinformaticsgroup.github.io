@@ -4,6 +4,8 @@ title: publications
 permalink: /publications/
 ---
 
+Moir N, Sherwood K, SimpsonTI. BatchVaria: a variance-aware framework for evaluating batch correction in high-dimensional omics data. bioRxiv 2026.05.07.72199. [https://doi.org/10.64898/2026.05.07.721996](https://doi.org/10.64898/2026.05.07.721996). [pre-print]
+
 Hunt SE, Lemos D, Pericherla SR, Austine-Orimoloye O; Cibrian-Uhalte E, Yates TM, Ansari M, Thompson L, Foreman J, Ware J, Simpson TI, Wright CF, Freeberg MA, Firth HV. Gene2Phenotype: a database of structured human monogenic diseases and pathomechanisms Journal of Molecular Biology 2026 (in-press)
 
 Lee C, Yates MT, Minervini P, and Simpson TI. Process-Supervised Multi-Agent Reinforcement Learning for Reliable Clinical Reasoning. arXiv.2602.14160 2026. [https://arxiv.org/abs/2602.14160](https://arxiv.org/abs/2602.14160). [pre-print]
