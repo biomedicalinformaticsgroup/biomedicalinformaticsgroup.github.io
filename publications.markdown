@@ -4,13 +4,16 @@ title: publications
 permalink: /publications/
 ---
 
-Moir N, Sherwood K, SimpsonTI. BatchVaria: a variance-aware framework for evaluating batch correction in high-dimensional omics data. bioRxiv 2026.05.07.72199. [https://doi.org/10.64898/2026.05.07.721996](https://doi.org/10.64898/2026.05.07.721996). [pre-print]
+Campbell J, Lain AD, Simpson TI. cadmus: a robust pipeline for scalable retrieval of full-text biomedical literature. 
+bioRxiv 2026.05.16.725623. [https://doi.org/10.64898/2026.05.16.725623](https://doi.org/10.64898/2026.05.16.725623) [pre-print]
+
+Moir N, Sherwood K, SimpsonTI. BatchVaria: a variance-aware framework for evaluating batch correction in high-dimensional omics data. bioRxiv 2026.05.07.72199. [https://doi.org/10.64898/2026.05.07.721996](https://doi.org/10.64898/2026.05.07.721996) [pre-print]
 
 Hunt SE, Lemos D, Pericherla SR, Austine-Orimoloye O; Cibrian-Uhalte E, Yates TM, Ansari M, Thompson L, Foreman J, Ware J, Simpson TI, Wright CF, Freeberg MA, Firth HV. Gene2Phenotype: a database of structured human monogenic diseases and pathomechanisms. Journal of Molecular Biology, 2026,169768,[https://doi.org/10.1016/j.jmb.2026.169768](https://doi.org/10.1016/j.jmb.2026.169768).
 
-Lee C, Yates MT, Minervini P, and Simpson TI. Process-Supervised Multi-Agent Reinforcement Learning for Reliable Clinical Reasoning. arXiv.2602.14160 2026. [https://arxiv.org/abs/2602.14160](https://arxiv.org/abs/2602.14160). [pre-print]
+Lee C, Yates MT, Minervini P, and Simpson TI. Process-Supervised Multi-Agent Reinforcement Learning for Reliable Clinical Reasoning. arXiv.2602.14160 2026. [https://arxiv.org/abs/2602.14160](https://arxiv.org/abs/2602.14160) [pre-print]
 
-Yates TM, Hunt SE, Lemos D, Pericherla SR, Uhalte EC, Ansari M, Thompson L, Doneva SE, Wright CF, Firth HV, Simpson TI. Domain-wide Mapping of Peer-reviewed Literature for Genetic Developmental Disorders using Machine Learning and Gene2Phenotype. medRxiv 2025. [medRxiv 2025.11.24.25340871](https://www.doi.org/10.1101/2025.11.24.25340871). [pre-print]
+Yates TM, Hunt SE, Lemos D, Pericherla SR, Uhalte EC, Ansari M, Thompson L, Doneva SE, Wright CF, Firth HV, Simpson TI. Domain-wide Mapping of Peer-reviewed Literature for Genetic Developmental Disorders using Machine Learning and Gene2Phenotype. medRxiv 2025. [medRxiv 2025.11.24.25340871](https://www.doi.org/10.1101/2025.11.24.25340871) [pre-print]
 
 Moir, N., Pearce, D.A., Langdon, S.P. and Simpson TI. The significance of molecular heterogeneity in breast cancer batch correction and dataset integration. Breast Cancer Res 2025 27(219). [https://doi.org/10.1186/s13058-025-02159-7](https://doi.org/10.1186/s13058-025-02159-7)
 
