@@ -47,6 +47,8 @@ The group GitHub Site with our publicly available tools and resources can be fou
 - **Xin He** PhD (2017) - Post Doctoral Researcher, [Centre for Discovery Brain Sciences](https://www.ed.ac.uk/discovery-brain-sciences), University of Edinburgh, Scotland
 
 #### Visiting Students
+- **Jose Iglesias Moure** PhD student, [Department of Physiology, University of Santiago de Compostela, Spain](https://www.usc.gal/en/department/physiology/directory/jose-iglesias-moure-678073)
+- **Darya Shlyk** PhD student, [Department of Computer Science, University of Milan, Italy](https://di.unimi.it/en)
 - **Simona Doneva** PhD student, [Centre for Reproducible Science](https://www.crs.uzh.ch/en/people/team/Simona-Doneva.ht), University of Zurich, Switzerland [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/simonada)
 - **Charu Joshi** MSc. student, [Gujarat Biotechnology University Gandhinagar](https://gbu.edu.in), India
 - **Jessica Singh** UG Research Student, [University of Illinois Urbana-Champaign](https://illinois.edu), USA
