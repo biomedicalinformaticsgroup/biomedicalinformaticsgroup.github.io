@@ -47,7 +47,7 @@ The group GitHub Site with our publicly available tools and resources can be fou
 - **Michael Yates** MD (2022) - Senior Clinical Research Fellow & Consultant in Clinical Genetics, [NHS Greater Glasgow and Clyde](https://www.nhsggc.scot), Glasgow, Scotland
 - **Magdalena Navarro** PhD (2022) - Senior Mapping Scientist [Space Intelligence](https://www.space-intelligence.com), Edinburgh, Scotland
 - **Alba Crespi** PhD (2022) - Data Scientist - [Health Data Science](https://www.dundee.ac.uk/medicine/research/population-health-genomics/health-data-science), School of Medicine, University of Dundee, Scotland
-- **Sam Heron** PhD (2019) - Post Doctoral Researcher, [Cancer Research Unit](https://www.utu.fi/en/university/faculty-of-medicine/institute-of-biomedicine/research/cancer-research), Institute of Biomedicine, University of Turku, Turku, Finland
+- **Sam Heron** PhD (2019) - Post Doctoral Researcher, [Bowles Lab](https://bowleslab.co.uk/team.html#sh), UK Dementia Research Institute at the University of Edinburgh, Scotland
 - **Emilia Wysocka** PhD (2019) - Post Doctoral Researcher, [Progressive Sensory Disorders, Pathophysiology & Therapy Team](https://research.pasteur.fr/en/team/progressive-sensory-disorders-pathophysiology-and-therapy/), Institut Pasteur, Paris, France
 - **Maciej Pajak** PhD (2018) - AI Engineer @ [Bloomberg LP](https://www.bloomberg.com/company/), London, England
 - **Xin He** PhD (2017) - Post Doctoral Researcher, [Centre for Discovery Brain Sciences](https://www.ed.ac.uk/discovery-brain-sciences), University of Edinburgh, Scotland
