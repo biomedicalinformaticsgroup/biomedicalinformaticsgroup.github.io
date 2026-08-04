@@ -13,7 +13,13 @@ The group GitHub Site with our publicly available tools and resources can be fou
 
 ### Current Group
 - **Ian Simpson** - Group Leader, Professor of Biomedical Informatics ([bio](/people/iansimpson.html)) ([contact](mailto:ian.simpson@ed.ac.uk)) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/tisimpson)
+
+### Post-Doctoral Researchers & Research Associates
 - **Michael Yates** - Senior Clinical Research Fellow & Consultant in Clinical Genetics, [NHS Greater Glasgow and Clyde](https://www.nhsggc.scot) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/tmyates)
+- **Jurgi Giraud** - Post-Doctoral Research Associate in Biomedical Natural Language Processing [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/jurgigi)
+- **Darya Shlyk** Post-Doctoral Research Associate in Biomedical Natural Language Processing [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/dash-ka)
+- **Sebestyén Kamp** Research Associate in Machine Learning [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/essharom)
+ 
 
 ### PhD Students (as Primary Supervisor)
 - **Tariro Chatiza** ([Wellcome Trust PhD Programme in Translational Neuroscience](https://www.edinburghneuroscience.ed.ac.uk/wellcome-trust-4-year-phd-translational-neuroscience)) with [Richard Chin](https://www.ed.ac.uk/profile/dr-richard-chin) & [Karen Mackenzie](https://www.ed.ac.uk/inflammation-research/people/principal-investigators/dr-karen-mackenzie)
@@ -48,7 +54,6 @@ The group GitHub Site with our publicly available tools and resources can be fou
 
 #### Visiting Students
 - **Jose Iglesias Moure** PhD student, [Department of Physiology, University of Santiago de Compostela, Spain](https://www.usc.gal/en/department/physiology/directory/jose-iglesias-moure-678073)
-- **Darya Shlyk** PhD student, [Department of Computer Science, University of Milan, Italy](https://di.unimi.it/en)
 - **Simona Doneva** PhD student, [Centre for Reproducible Science](https://www.crs.uzh.ch/en/people/team/Simona-Doneva.ht), University of Zurich, Switzerland [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/simonada)
 - **Charu Joshi** MSc. student, [Gujarat Biotechnology University Gandhinagar](https://gbu.edu.in), India
 - **Jessica Singh** UG Research Student, [University of Illinois Urbana-Champaign](https://illinois.edu), USA
