@@ -22,7 +22,6 @@ The group GitHub Site with our publicly available tools and resources can be fou
  
 
 ### PhD Students (as Primary Supervisor)
-- **Tariro Chatiza** ([Wellcome Trust PhD Programme in Translational Neuroscience](https://www.edinburghneuroscience.ed.ac.uk/wellcome-trust-4-year-phd-translational-neuroscience)) with [Richard Chin](https://www.ed.ac.uk/profile/dr-richard-chin) & [Karen Mackenzie](https://www.ed.ac.uk/inflammation-research/people/principal-investigators/dr-karen-mackenzie)
 - **Sebestyén Kamp** ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Giovanni Stracquadanio](https://www.stracquadaniolab.org/) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/essharom)
 - **Marysia Dolak** ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Silvia de Rubeis](https://profiles.mountsinai.org/silvia-de-rubeis) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/mdolak)
 - **Hanane Issa** ([HDR UK-Turing Wellcome PhD Programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/)) with [Michael Yates](https://www.inf.ed.ac.uk/people/staff/Michael_Yates.html) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/hanane-issa)
@@ -38,7 +37,8 @@ The group GitHub Site with our publicly available tools and resources can be fou
 
 ### Alumni
 
-#### PhD & MD Students
+#### PhD, MD & MSc Students
+- **Tariro Chatiza** MSc by Research (2026) - [LinkedIn](https://www.linkedin.com/in/tariro-alfa-chatiza-20462811a/)
 - **Barry Ryan** PhD (2025) - Post-Doctoral Researcher, [Fellay Group](https://www.epfl.ch/labs/fellay-lab/), EPFL Lausanne, Switzerland [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/Barry8197)
 - **Aidan Marnane** PhD (2024) - Senior Solutions Engineer, [Deloitte](https://www.deloitte.com/uk/en.html), Ireland [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://amarnane.github.io/about.html)
 - **Antoine Lain** PhD (2024) - Post-Doctoral Researcher, [Posma Lab](https://www.imperial.ac.uk/people/j.posma11/research.html), Imperial College London, England [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/Antoinelfr)
