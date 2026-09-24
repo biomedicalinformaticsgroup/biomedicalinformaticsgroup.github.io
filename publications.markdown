@@ -4,6 +4,8 @@ title: publications
 permalink: /publications/
 ---
 
+Rodriguez-Cubillos MJ, Zieliński T, Swedlow JR, Simpson TI, Millar AJ. The Shape of Biological Metadata: Measuring Repository Richness with Entity-Based NLP Metrics. bioRxiv 2026.09.08.749906; [https://doi.org/10.64898/2026.09.08.749906](https://doi.org/10.64898/2026.09.08.749906) [pre-print]
+
 Campbell J, Lain AD, Simpson TI. cadmus: a robust pipeline for scalable retrieval of full-text biomedical literature. 
 bioRxiv 2026.05.16.725623. [https://doi.org/10.64898/2026.05.16.725623](https://doi.org/10.64898/2026.05.16.725623) [pre-print]
 
