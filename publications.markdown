@@ -4,6 +4,8 @@ title: publications
 permalink: /publications/
 ---
 
+Ryan, B., Lee, C., Kamp, S., Issa, H., Rodriguez-Cubillos, M. J., Castagnari, E., Agasi, E., Tirkova, S., Fabrega, N., EL HAJJAJI, C., Ait Oumelloul, M., Emilova Doneva, S., & Simpson, I. (2026, September 29). From Multi-Omics to Gene–Disease Discovery: Knowledge Graphs and LLM-Augmented Analysis. Zenodo. European Conference on Computational Biology (ECCB), Geneva, Switzerland. [https://doi.org/10.5281/zenodo.23044446](https://doi.org/10.5281/zenodo.23044446) [workshop]
+
 Rodriguez-Cubillos MJ, Zieliński T, Swedlow JR, Simpson TI, Millar AJ. The Shape of Biological Metadata: Measuring Repository Richness with Entity-Based NLP Metrics. bioRxiv 2026.09.08.749906; [https://doi.org/10.64898/2026.09.08.749906](https://doi.org/10.64898/2026.09.08.749906) [pre-print]
 
 Campbell J, Lain AD, Simpson TI. cadmus: a robust pipeline for scalable retrieval of full-text biomedical literature. 
