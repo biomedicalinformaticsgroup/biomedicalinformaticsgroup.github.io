@@ -19,7 +19,9 @@ The group GitHub Site with our publicly available tools and resources can be fou
 - **Jurgi Giraud** - Post-Doctoral Research Associate in Biomedical Natural Language Processing [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/jurgigi)
 - **Darya Shlyk** Post-Doctoral Research Associate in Biomedical Natural Language Processing [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/dash-ka)
 - **Sebestyén Kamp** Research Associate in Machine Learning [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/essharom)
- 
+
+### Visiting Researchers
+- **Jamie Campbell** - Conultant in Clinical Genetics, [NHS Lothian](https://services.nhslothian.scot/geneticservice/) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/jamcam11)
 
 ### PhD Students (as Primary Supervisor)
 - **Sebestyén Kamp** ([CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai)) with [Giovanni Stracquadanio](https://www.stracquadaniolab.org/) [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="octocat" width="20" style="vertical-align:text-bottom;">](https://github.com/essharom)
