@@ -4,14 +4,16 @@ title: publications
 permalink: /publications/
 ---
 
+Agasi E, Gourley C, Herrington S, Hollis RL, Simpson TI. The APL Doesn't Fall Far From The Tree: Unsupervised Artefact Prototype Learning in Histopathology. arXiv 2026. [https://arxiv.org/abs/2611.08838](https://arxiv.org/abs/2611.08838) [pre-print]
+
 Ryan, B., Lee, C., Kamp, S., Issa, H., Rodriguez-Cubillos, M. J., Castagnari, E., Agasi, E., Tirkova, S., Fabrega, N., EL HAJJAJI, C., Ait Oumelloul, M., Emilova Doneva, S., & Simpson, I. (2026, September 29). From Multi-Omics to Gene–Disease Discovery: Knowledge Graphs and LLM-Augmented Analysis. Zenodo. European Conference on Computational Biology (ECCB), Geneva, Switzerland. [https://doi.org/10.5281/zenodo.23044446](https://doi.org/10.5281/zenodo.23044446) [workshop]
 
-Rodriguez-Cubillos MJ, Zieliński T, Swedlow JR, Simpson TI, Millar AJ. The Shape of Biological Metadata: Measuring Repository Richness with Entity-Based NLP Metrics. bioRxiv 2026.09.08.749906; [https://doi.org/10.64898/2026.09.08.749906](https://doi.org/10.64898/2026.09.08.749906) [pre-print]
+Rodriguez-Cubillos MJ, Zieliński T, Swedlow JR, Simpson TI, Millar AJ. The Shape of Biological Metadata: Measuring Repository Richness with Entity-Based NLP Metrics. bioRxiv 2026. [https://doi.org/10.64898/2026.09.08.749906](https://doi.org/10.64898/2026.09.08.749906) [pre-print]
 
 Campbell J, Lain AD, Simpson TI. cadmus: a robust pipeline for scalable retrieval of full-text biomedical literature. 
 bioRxiv 2026.05.16.725623. [https://doi.org/10.64898/2026.05.16.725623](https://doi.org/10.64898/2026.05.16.725623) [pre-print]
 
-Moir N, Sherwood K, SimpsonTI. BatchVaria: a variance-aware framework for evaluating batch correction in high-dimensional omics data. bioRxiv 2026.05.07.72199. [https://doi.org/10.64898/2026.05.07.721996](https://doi.org/10.64898/2026.05.07.721996) [pre-print]
+Moir N, Sherwood K, SimpsonTI. BatchVaria: a variance-aware framework for evaluating batch correction in high-dimensional omics data. bioRxiv 2026. [https://doi.org/10.64898/2026.05.07.721996](https://doi.org/10.64898/2026.05.07.721996) [pre-print]
 
 Hunt SE, Lemos D, Pericherla SR, Austine-Orimoloye O; Cibrian-Uhalte E, Yates TM, Ansari M, Thompson L, Foreman J, Ware J, Simpson TI, Wright CF, Freeberg MA, Firth HV. Gene2Phenotype: a database of structured human monogenic diseases and pathomechanisms. Journal of Molecular Biology, 2026,169768,[https://doi.org/10.1016/j.jmb.2026.169768](https://doi.org/10.1016/j.jmb.2026.169768).
 
