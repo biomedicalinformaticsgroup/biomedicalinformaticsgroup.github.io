@@ -4,6 +4,8 @@ title: publications
 permalink: /publications/
 ---
 
+Lee C,  Rahmani HA, Gema AP, Xu K, Yilmaz E, Minervini P, Simpson TI, Jin C, Saseendran A. Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training. arXiv 2026. [https://arxiv.org/abs/2611.31427](https://arxiv.org/abs/2611.31427) [pre-print]
+
 Agasi E, Gourley C, Herrington S, Hollis RL, Simpson TI. The APL Doesn't Fall Far From The Tree: Unsupervised Artefact Prototype Learning in Histopathology. arXiv 2026. [https://arxiv.org/abs/2611.08838](https://arxiv.org/abs/2611.08838) [pre-print]
 
 Ryan, B., Lee, C., Kamp, S., Issa, H., Rodriguez-Cubillos, M. J., Castagnari, E., Agasi, E., Tirkova, S., Fabrega, N., EL HAJJAJI, C., Ait Oumelloul, M., Emilova Doneva, S., & Simpson, I. (2026, September 29). From Multi-Omics to Gene–Disease Discovery: Knowledge Graphs and LLM-Augmented Analysis. Zenodo. European Conference on Computational Biology (ECCB), Geneva, Switzerland. [https://doi.org/10.5281/zenodo.23044446](https://doi.org/10.5281/zenodo.23044446) [workshop]
